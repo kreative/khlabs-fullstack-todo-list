@@ -1,4 +1,5 @@
-# Todo Workshop for Kreative Horizons at Iowa State University
+# Learn Fullstack Development by building a Todo List application!
+### Powered by Kreative Horizon Labs
 
 ## Prerequisites
 - Install [Node JS](https://nodejs.org/en) if you do not have it already
