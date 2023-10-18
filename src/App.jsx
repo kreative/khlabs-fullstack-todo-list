@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() => {
     fetchTodos()
-  })
+  }, [])
 
   const fetchTodos = async () => {
     let { data, error } = await supabase
